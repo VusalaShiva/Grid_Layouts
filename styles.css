@@ -63,6 +63,9 @@ body {
   grid-row: 1;
   background: linear-gradient(to right, #7b2ff7, #f107a3);
   padding: 20px;
+  display: flex;
+  justify-content: center; 
+  align-items: center;     
   text-align: center;
 }
 
@@ -71,6 +74,10 @@ body {
   grid-row: 2/4;
   background: linear-gradient(to bottom, #00d2ff, #3a7bd5);
   padding: 20px;
+  display: flex;
+  justify-content: center; 
+  align-items: center;     
+  text-align: center;
 }
 
 .container2 .content1 {
@@ -78,6 +85,11 @@ body {
   grid-row: 2;
   background: linear-gradient(to bottom right, #00c6ff, #0072ff);
   padding: 20px;
+  display: flex;
+  justify-content: center; 
+  align-items: center;     
+  text-align: center;
+  
 }
 
 .container2 .content2 {
@@ -85,6 +97,10 @@ body {
   grid-row: 3;
   background: linear-gradient(to bottom right, #8e2de2, #4a00e0);
   padding: 20px;
+  display: flex;
+  justify-content: center; 
+  align-items: center;     
+  text-align: center;
 }
 
 .container2 .content3 {
@@ -92,6 +108,10 @@ body {
   grid-row: 3;
   background: linear-gradient(to bottom right, #8e2de2, #4a00e0);
   padding: 20px;
+  display: flex;
+  justify-content: center; 
+  align-items: center;     
+  text-align: center;
 }
 
 .container2 .footer {
@@ -99,6 +119,9 @@ body {
   grid-row: 4;
   background: linear-gradient(to right, #7b2ff7, #f107a3);
   padding: 20px;
+  display: flex;
+  justify-content: center; 
+  align-items: center;     
   text-align: center;
 }
 
